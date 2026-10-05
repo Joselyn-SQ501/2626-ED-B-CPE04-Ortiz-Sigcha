@@ -1,0 +1,21 @@
+UIO,GYE,55.00,LATAM Ecuador
+UIO,BOG,215.00,Avianca
+UIO,PTY,255.00,Copa Airlines
+UIO,MIA,450.00,American Airlines
+GYE,PTY,185.00,Copa Airlines
+GYE,MIA,380.00,American Airlines
+GYE,MAD,620.00,Air Europa
+GYE,UIO,58.00,LATAM Ecuador
+PTY,MIA,175.00,Copa Airlines
+PTY,BOG,140.00,Copa Airlines
+PTY,MAD,540.00,Iberia
+PTY,CUE,160.00,Copa Airlines
+BOG,MIA,220.00,Avianca
+BOG,MAD,510.00,Avianca
+BOG,UIO,190.00,LATAM Colombia
+MIA,JFK,120.00,Delta Air Lines
+MIA,MAD,490.00,Iberia
+CUE,UIO,45.00,LATAM Ecuador
+CUE,GYE,40.00,LATAM Ecuador
+MAD,JFK,390.00,Air France
+QUI,TO,290.00, Central Quito
